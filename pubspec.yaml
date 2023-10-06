@@ -17,6 +17,7 @@ dependencies:
   intl: ^0.18.1
   mime: ^1.0.0
   path: ^1.8.0
+  collection: ^1.17.2
 
 dev_dependencies:
   pedantic: ^1.11.0
